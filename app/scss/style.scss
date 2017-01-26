@@ -1,0 +1,14 @@
+html{
+	background:white;
+}
+$font-stack:    Helvetica, sans-serif;
+$primary-color: red;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+.city {
+  background-color: #00FFFF;
+  color: blue; 
+}
