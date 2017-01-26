@@ -1,1 +1,1 @@
-"myproject" 
+"my gulp project" 
